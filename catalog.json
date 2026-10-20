@@ -1,0 +1,62 @@
+{
+    "format": 1,
+    "covers": {
+        "atlases": [
+            0
+        ],
+        "aw": 2048,
+        "ah": 1900,
+        "cols": 8,
+        "rows": 5,
+        "cw": 248,
+        "ch": 372,
+        "pad": 4
+    },
+    "comics": [
+        {
+            "id": "manga-test",
+            "title": "Manga Test",
+            "author": "Cupidum",
+            "rtl": true,
+            "coverAlone": true,
+            "pages": 24,
+            "cover": 0,
+            "aw": 2048,
+            "ah": 2032,
+            "cols": 3,
+            "rows": 2,
+            "cw": 666,
+            "ch": 999,
+            "pad": 8,
+            "atlases": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "id": "remote-test",
+            "title": "Remote Test",
+            "author": "Cupidum",
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 30,
+            "cover": 1,
+            "aw": 2048,
+            "ah": 2032,
+            "cols": 3,
+            "rows": 2,
+            "cw": 666,
+            "ch": 999,
+            "pad": 8,
+            "atlases": [
+                4,
+                5,
+                6,
+                7,
+                8
+            ]
+        }
+    ]
+}
