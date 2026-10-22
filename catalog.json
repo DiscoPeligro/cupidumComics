@@ -8,11 +8,20 @@
         {
             "id": "classic-strips",
             "title": "Classic Strips"
+        },
+        {
+            "id": "clasicos-en-espanol",
+            "title": "Clásicos en español"
+        },
+        {
+            "id": "english-classics",
+            "title": "English Classics"
         }
     ],
     "covers": {
         "atlases": [
-            0
+            0,
+            1
         ],
         "aw": 2048,
         "ah": 1900,
@@ -1092,6 +1101,282 @@
                 108,
                 109
             ]
+        },
+        {
+            "id": "quiroga-cuentos-de-amor-de-locura-y-de-muerte",
+            "title": "Cuentos de amor de locura y de muerte",
+            "author": "Horacio Quiroga",
+            "kind": "book",
+            "cats": [
+                "clasicos-en-espanol"
+            ],
+            "book": 0,
+            "chars": 288892,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 0,
+            "cover": 40,
+            "aw": 0,
+            "ah": 0,
+            "cols": 0,
+            "rows": 0,
+            "cw": 0,
+            "ch": 0,
+            "pad": 0,
+            "atlases": []
+        },
+        {
+            "id": "dario-azul",
+            "title": "Azul...",
+            "author": "Rubén Darío",
+            "kind": "book",
+            "cats": [
+                "clasicos-en-espanol"
+            ],
+            "book": 1,
+            "chars": 183821,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 0,
+            "cover": 41,
+            "aw": 0,
+            "ah": 0,
+            "cols": 0,
+            "rows": 0,
+            "cw": 0,
+            "ch": 0,
+            "pad": 0,
+            "atlases": []
+        },
+        {
+            "id": "palma-tradiciones-peruanas",
+            "title": "Tradiciones peruanas",
+            "author": "Ricardo Palma",
+            "kind": "book",
+            "cats": [
+                "clasicos-en-espanol"
+            ],
+            "book": 2,
+            "chars": 281940,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 0,
+            "cover": 42,
+            "aw": 0,
+            "ah": 0,
+            "cols": 0,
+            "rows": 0,
+            "cw": 0,
+            "ch": 0,
+            "pad": 0,
+            "atlases": []
+        },
+        {
+            "id": "lazarillo-de-tormes",
+            "title": "Lazarillo de Tormes",
+            "author": "Anónimo",
+            "kind": "book",
+            "cats": [
+                "clasicos-en-espanol"
+            ],
+            "book": 3,
+            "chars": 106535,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 0,
+            "cover": 43,
+            "aw": 0,
+            "ah": 0,
+            "cols": 0,
+            "rows": 0,
+            "cw": 0,
+            "ch": 0,
+            "pad": 0,
+            "atlases": []
+        },
+        {
+            "id": "galdos-marianela",
+            "title": "Marianela",
+            "author": "Benito Pérez Galdós",
+            "kind": "book",
+            "cats": [
+                "clasicos-en-espanol"
+            ],
+            "book": 4,
+            "chars": 294320,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 0,
+            "cover": 44,
+            "aw": 0,
+            "ah": 0,
+            "cols": 0,
+            "rows": 0,
+            "cw": 0,
+            "ch": 0,
+            "pad": 0,
+            "atlases": []
+        },
+        {
+            "id": "marti-la-edad-de-oro",
+            "title": "La Edad de Oro",
+            "author": "José Martí",
+            "kind": "book",
+            "cats": [
+                "clasicos-en-espanol"
+            ],
+            "book": 5,
+            "chars": 355891,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 0,
+            "cover": 45,
+            "aw": 0,
+            "ah": 0,
+            "cols": 0,
+            "rows": 0,
+            "cw": 0,
+            "ch": 0,
+            "pad": 0,
+            "atlases": []
+        },
+        {
+            "id": "doyle-adventures-of-sherlock-holmes",
+            "title": "The Adventures of Sherlock Holmes",
+            "author": "Arthur Conan Doyle",
+            "kind": "book",
+            "cats": [
+                "english-classics"
+            ],
+            "book": 6,
+            "chars": 560485,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 0,
+            "cover": 46,
+            "aw": 0,
+            "ah": 0,
+            "cols": 0,
+            "rows": 0,
+            "cw": 0,
+            "ch": 0,
+            "pad": 0,
+            "atlases": []
+        },
+        {
+            "id": "carroll-alice-in-wonderland",
+            "title": "Alice's Adventures in Wonderland",
+            "author": "Lewis Carroll",
+            "kind": "book",
+            "cats": [
+                "english-classics"
+            ],
+            "book": 7,
+            "chars": 145116,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 0,
+            "cover": 47,
+            "aw": 0,
+            "ah": 0,
+            "cols": 0,
+            "rows": 0,
+            "cw": 0,
+            "ch": 0,
+            "pad": 0,
+            "atlases": []
+        },
+        {
+            "id": "shelley-frankenstein",
+            "title": "Frankenstein",
+            "author": "Mary Shelley",
+            "kind": "book",
+            "cats": [
+                "english-classics"
+            ],
+            "book": 8,
+            "chars": 419963,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 0,
+            "cover": 48,
+            "aw": 0,
+            "ah": 0,
+            "cols": 0,
+            "rows": 0,
+            "cw": 0,
+            "ch": 0,
+            "pad": 0,
+            "atlases": []
+        },
+        {
+            "id": "stoker-dracula",
+            "title": "Dracula",
+            "author": "Bram Stoker",
+            "kind": "book",
+            "cats": [
+                "english-classics"
+            ],
+            "book": 9,
+            "chars": 839772,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 0,
+            "cover": 49,
+            "aw": 0,
+            "ah": 0,
+            "cols": 0,
+            "rows": 0,
+            "cw": 0,
+            "ch": 0,
+            "pad": 0,
+            "atlases": []
+        },
+        {
+            "id": "austen-pride-and-prejudice",
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "kind": "book",
+            "cats": [
+                "english-classics"
+            ],
+            "book": 10,
+            "chars": 722615,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 0,
+            "cover": 50,
+            "aw": 0,
+            "ah": 0,
+            "cols": 0,
+            "rows": 0,
+            "cw": 0,
+            "ch": 0,
+            "pad": 0,
+            "atlases": []
+        },
+        {
+            "id": "dickens-a-christmas-carol",
+            "title": "A Christmas Carol",
+            "author": "Charles Dickens",
+            "kind": "book",
+            "cats": [
+                "english-classics"
+            ],
+            "book": 11,
+            "chars": 158037,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 0,
+            "cover": 51,
+            "aw": 0,
+            "ah": 0,
+            "cols": 0,
+            "rows": 0,
+            "cw": 0,
+            "ch": 0,
+            "pad": 0,
+            "atlases": []
         }
     ]
 }

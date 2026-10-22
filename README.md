@@ -61,3 +61,24 @@ Tiras diarias de **Thimble Theatre** de [E. C. Segar](https://es.wikipedia.org/w
 **Fuente:** escaneos de *The Washington Times* (Washington, D.C.) en [Chronicling America](https://chroniclingamerica.loc.gov/lccn/sn84026749/), Library of Congress. La Biblioteca considera que los periódicos de esa colección no tienen restricciones de derechos de autor conocidas.
 
 **Cambios:** cada tira se recortó de la página del periódico, se ajustaron los niveles de gris del microfilm y se juntaron dos tiras por página. El dibujo y los textos no se modificaron. Falta la tira del 20 de junio de 1929, que no viene en el escaneo de ese día. La portada se hizo con un cuadro de la tira del 17 de enero de 1929.
+
+## Libros clásicos
+
+Textos de dominio público tomados de [Project Gutenberg](https://www.gutenberg.org). Todos sus autores murieron hace más de 100 años (antes de 1952), así que también son libres en México.
+
+| Libro | Autor | Fuente |
+|---|---|---|
+| Cuentos de amor de locura y de muerte | Horacio Quiroga | [Gutenberg #13507](https://www.gutenberg.org/ebooks/13507) |
+| Azul... | Rubén Darío | [Gutenberg #52894](https://www.gutenberg.org/ebooks/52894) |
+| Tradiciones peruanas | Ricardo Palma | [Gutenberg #21282](https://www.gutenberg.org/ebooks/21282) |
+| Lazarillo de Tormes | Anónimo | [Gutenberg #320](https://www.gutenberg.org/ebooks/320) |
+| Marianela | Benito Pérez Galdós | [Gutenberg #17340](https://www.gutenberg.org/ebooks/17340) |
+| La Edad de Oro | José Martí | [Gutenberg #19898](https://www.gutenberg.org/ebooks/19898) |
+| The Adventures of Sherlock Holmes | Arthur Conan Doyle | [Gutenberg #1661](https://www.gutenberg.org/ebooks/1661) |
+| Alice's Adventures in Wonderland | Lewis Carroll | [Gutenberg #11](https://www.gutenberg.org/ebooks/11) |
+| Frankenstein | Mary Shelley | [Gutenberg #84](https://www.gutenberg.org/ebooks/84) |
+| Dracula | Bram Stoker | [Gutenberg #345](https://www.gutenberg.org/ebooks/345) |
+| Pride and Prejudice (con el prefacio de George Saintsbury) | Jane Austen | [Gutenberg #1342](https://www.gutenberg.org/ebooks/1342) |
+| A Christmas Carol | Charles Dickens | [Gutenberg #46](https://www.gutenberg.org/ebooks/46) |
+
+**Cambios:** el texto se pasó al formato de la tableta (párrafos, cursivas, negritas y capítulos) y se paginó para su pantalla. Se quitaron el encabezado y la licencia de Project Gutenberg, las páginas de índice y las ilustraciones; por eso estas copias no usan la marca Project Gutenberg. Las portadas son las de las ediciones originales incluidas en los EPUB, salvo cuatro (Quiroga, Palma, Lazarillo y Martí), que son tipográficas.
