@@ -53,3 +53,11 @@ Episodios 1 a 38 en la traducción al español de México; el episodio 39 en la 
 | 39 | [Episodio 39: La Taberna](https://www.peppercarrot.com/es/webcomic/ep39_The-Tavern.html) | español (España) | David Revoy | Raúl García |
 
 Pepper&Carrot prohíbe crear obras derivadas con inteligencia artificial generativa; esta copia solo reacomoda las páginas para leerlas.
+
+## Thimble Theatre: Dice Island (1929)
+
+Tiras diarias de **Thimble Theatre** de [E. C. Segar](https://es.wikipedia.org/wiki/E._C._Segar) (King Features Syndicate), del 17 de enero al 29 de junio de 1929: la primera aventura en la que aparece Popeye. Son de **dominio público** en Estados Unidos (obras publicadas hace más de 95 años) y en México (Segar murió en 1938). Popeye es marca registrada de King Features Syndicate; este catálogo no está afiliado ni respaldado por ellos.
+
+**Fuente:** escaneos de *The Washington Times* (Washington, D.C.) en [Chronicling America](https://chroniclingamerica.loc.gov/lccn/sn84026749/), Library of Congress. La Biblioteca considera que los periódicos de esa colección no tienen restricciones de derechos de autor conocidas.
+
+**Cambios:** cada tira se recortó de la página del periódico, se ajustaron los niveles de gris del microfilm y se juntaron dos tiras por página. El dibujo y los textos no se modificaron. Falta la tira del 20 de junio de 1929, que no viene en el escaneo de ese día. La portada se hizo con un cuadro de la tira del 17 de enero de 1929.

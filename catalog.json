@@ -4,6 +4,10 @@
         {
             "id": "pepper-carrot",
             "title": "Pepper&Carrot"
+        },
+        {
+            "id": "classic-strips",
+            "title": "Classic Strips"
         }
     ],
     "covers": {
@@ -1028,6 +1032,65 @@
             "atlases": [
                 73,
                 74
+            ]
+        },
+        {
+            "id": "thimble-theatre-1929-dice-island",
+            "title": "Thimble Theatre: Dice Island (1929)",
+            "author": "E. C. Segar",
+            "kind": "comic",
+            "cats": [
+                "classic-strips"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": false,
+            "pages": 70,
+            "cover": 39,
+            "aw": 1760,
+            "ah": 2048,
+            "cols": 1,
+            "rows": 2,
+            "cw": 1741,
+            "ch": 1008,
+            "pad": 8,
+            "atlases": [
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109
             ]
         }
     ]
