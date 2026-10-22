@@ -1,5 +1,11 @@
 {
-    "format": 1,
+    "format": 2,
+    "categories": [
+        {
+            "id": "pepper-carrot",
+            "title": "Pepper&Carrot"
+        }
+    ],
     "covers": {
         "atlases": [
             0
@@ -14,48 +20,1014 @@
     },
     "comics": [
         {
-            "id": "manga-test",
-            "title": "Manga Test",
-            "author": "Cupidum",
-            "rtl": true,
+            "id": "pepper-carrot-01",
+            "title": "Pepper&Carrot 1: Poción de Vuelo",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
             "coverAlone": true,
-            "pages": 24,
+            "pages": 3,
             "cover": 0,
-            "aw": 2048,
-            "ah": 2032,
+            "aw": 2044,
+            "ah": 1900,
             "cols": 3,
             "rows": 2,
-            "cw": 666,
-            "ch": 999,
+            "cw": 665,
+            "ch": 934,
             "pad": 8,
             "atlases": [
-                0,
-                1,
+                0
+            ]
+        },
+        {
+            "id": "pepper-carrot-02",
+            "title": "Pepper&Carrot 2: Pociones de Arcoíris",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 6,
+            "cover": 1,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                1
+            ]
+        },
+        {
+            "id": "pepper-carrot-03",
+            "title": "Pepper&Carrot 3: Los Ingredientes Secretos",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 8,
+            "cover": 2,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
                 2,
                 3
             ]
         },
         {
-            "id": "remote-test",
-            "title": "Remote Test",
-            "author": "Cupidum",
+            "id": "pepper-carrot-04",
+            "title": "Pepper&Carrot 4: Golpe de Genialidad",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
             "rtl": false,
             "coverAlone": true,
-            "pages": 30,
-            "cover": 1,
-            "aw": 2048,
-            "ah": 2032,
+            "pages": 7,
+            "cover": 3,
+            "aw": 2044,
+            "ah": 1876,
             "cols": 3,
             "rows": 2,
-            "cw": 666,
-            "ch": 999,
+            "cw": 665,
+            "ch": 921,
             "pad": 8,
             "atlases": [
                 4,
-                5,
-                6,
+                5
+            ]
+        },
+        {
+            "id": "pepper-carrot-05",
+            "title": "Pepper&Carrot 5: Especial de Navidad",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 5,
+            "cover": 4,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                6
+            ]
+        },
+        {
+            "id": "pepper-carrot-06",
+            "title": "Pepper&Carrot 6: El Concurso de Pociones",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 10,
+            "cover": 5,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
                 7,
                 8
+            ]
+        },
+        {
+            "id": "pepper-carrot-07",
+            "title": "Pepper&Carrot 7: El Deseo",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 6,
+            "cover": 6,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                9
+            ]
+        },
+        {
+            "id": "pepper-carrot-08",
+            "title": "Pepper&Carrot 8: El cumpleaños de Pepper",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 7,
+            "cover": 7,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                10,
+                11
+            ]
+        },
+        {
+            "id": "pepper-carrot-09",
+            "title": "Pepper&Carrot 9: El Remedio",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 8,
+            "cover": 8,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                12,
+                13
+            ]
+        },
+        {
+            "id": "pepper-carrot-10",
+            "title": "Pepper&Carrot 10: Especial de Verano",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 6,
+            "cover": 9,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                14
+            ]
+        },
+        {
+            "id": "pepper-carrot-11",
+            "title": "Pepper&Carrot 11: Las Hechiceras de Chaosah",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 7,
+            "cover": 10,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                15,
+                16
+            ]
+        },
+        {
+            "id": "pepper-carrot-12",
+            "title": "Pepper&Carrot 12: Limpieza de Otoño",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 7,
+            "cover": 11,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                17,
+                18
+            ]
+        },
+        {
+            "id": "pepper-carrot-13",
+            "title": "Pepper&Carrot 13: La Pijamada",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 7,
+            "cover": 12,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                19,
+                20
+            ]
+        },
+        {
+            "id": "pepper-carrot-14",
+            "title": "Pepper&Carrot 14: El Diente De Dragón",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 7,
+            "cover": 13,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                21,
+                22
+            ]
+        },
+        {
+            "id": "pepper-carrot-15",
+            "title": "Pepper&Carrot 15: La Bola de Cristal",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 9,
+            "cover": 14,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                23,
+                24
+            ]
+        },
+        {
+            "id": "pepper-carrot-16",
+            "title": "Pepper&Carrot 16: El Sabio de la Montaña",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 7,
+            "cover": 15,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                25,
+                26
+            ]
+        },
+        {
+            "id": "pepper-carrot-17",
+            "title": "Pepper&Carrot 17: ¡A Comenzar De Nuevo!",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 8,
+            "cover": 16,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                27,
+                28
+            ]
+        },
+        {
+            "id": "pepper-carrot-18",
+            "title": "Pepper&Carrot 18: El Reencuentro",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 8,
+            "cover": 17,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                29,
+                30
+            ]
+        },
+        {
+            "id": "pepper-carrot-19",
+            "title": "Pepper&Carrot 19: Contaminación",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 8,
+            "cover": 18,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                31,
+                32
+            ]
+        },
+        {
+            "id": "pepper-carrot-20",
+            "title": "Pepper&Carrot 20: Día de campo",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 7,
+            "cover": 19,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                33,
+                34
+            ]
+        },
+        {
+            "id": "pepper-carrot-21",
+            "title": "Pepper&Carrot 21: El concurso de magia",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 8,
+            "cover": 20,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                35,
+                36
+            ]
+        },
+        {
+            "id": "pepper-carrot-22",
+            "title": "Pepper&Carrot 22: El sistema electoral",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 11,
+            "cover": 21,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                37,
+                38
+            ]
+        },
+        {
+            "id": "pepper-carrot-23",
+            "title": "Pepper&Carrot 23: Aprovecha la oportunidad",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 8,
+            "cover": 22,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                39,
+                40
+            ]
+        },
+        {
+            "id": "pepper-carrot-24",
+            "title": "Pepper&Carrot 24: El árbol de la unión",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 8,
+            "cover": 23,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                41,
+                42
+            ]
+        },
+        {
+            "id": "pepper-carrot-25",
+            "title": "Pepper&Carrot 25: Nada es fácil en la vida",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 10,
+            "cover": 24,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                43,
+                44
+            ]
+        },
+        {
+            "id": "pepper-carrot-26",
+            "title": "Pepper&Carrot 26: Nada mejor que un libro",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 7,
+            "cover": 25,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                45,
+                46
+            ]
+        },
+        {
+            "id": "pepper-carrot-27",
+            "title": "Pepper&Carrot 27: Los inventos de Coriander",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 7,
+            "cover": 26,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                47,
+                48
+            ]
+        },
+        {
+            "id": "pepper-carrot-28",
+            "title": "Pepper&Carrot 28: La fiesta",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 10,
+            "cover": 27,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                49,
+                50
+            ]
+        },
+        {
+            "id": "pepper-carrot-29",
+            "title": "Pepper&Carrot 29: Destructor de mundos",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 9,
+            "cover": 28,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                51,
+                52
+            ]
+        },
+        {
+            "id": "pepper-carrot-30",
+            "title": "Pepper&Carrot 30: Necesito un abrazo",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 7,
+            "cover": 29,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                53,
+                54
+            ]
+        },
+        {
+            "id": "pepper-carrot-31",
+            "title": "Pepper&Carrot 31: La pelea",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 8,
+            "cover": 30,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                55,
+                56
+            ]
+        },
+        {
+            "id": "pepper-carrot-32",
+            "title": "Pepper&Carrot 32: El campo de batalla",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 8,
+            "cover": 31,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                57,
+                58
+            ]
+        },
+        {
+            "id": "pepper-carrot-33",
+            "title": "Pepper&Carrot 33: Hechizo de guerra",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 9,
+            "cover": 32,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                59,
+                60
+            ]
+        },
+        {
+            "id": "pepper-carrot-34",
+            "title": "Pepper&Carrot 34: La pelea de Shichimi",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 11,
+            "cover": 33,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                61,
+                62
+            ]
+        },
+        {
+            "id": "pepper-carrot-35",
+            "title": "Pepper&Carrot 35: La reflexión",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 13,
+            "cover": 34,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                63,
+                64,
+                65
+            ]
+        },
+        {
+            "id": "pepper-carrot-36",
+            "title": "Pepper&Carrot 36: El ataque sorpresa",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 16,
+            "cover": 35,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                66,
+                67,
+                68
+            ]
+        },
+        {
+            "id": "pepper-carrot-37",
+            "title": "Pepper&Carrot 37: Las lágrimas del fénix",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 9,
+            "cover": 36,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                69,
+                70
+            ]
+        },
+        {
+            "id": "pepper-carrot-38",
+            "title": "Pepper&Carrot 38: La curandera",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 9,
+            "cover": 37,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                71,
+                72
+            ]
+        },
+        {
+            "id": "pepper-carrot-39",
+            "title": "Pepper&Carrot 39: La Taberna",
+            "author": "David Revoy",
+            "kind": "comic",
+            "cats": [
+                "pepper-carrot"
+            ],
+            "book": -1,
+            "chars": 0,
+            "rtl": false,
+            "coverAlone": true,
+            "pages": 12,
+            "cover": 38,
+            "aw": 2044,
+            "ah": 1876,
+            "cols": 3,
+            "rows": 2,
+            "cw": 665,
+            "ch": 921,
+            "pad": 8,
+            "atlases": [
+                73,
+                74
             ]
         }
     ]
